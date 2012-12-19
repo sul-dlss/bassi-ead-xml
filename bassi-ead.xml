@@ -4615,7 +4615,12 @@
                         </physdesc>
                         <unitdate normal="1755/1755">1755 set. 1</unitdate>
                     </did>
-                </c02>
+					<dao ns2:actuate="onRequest" ns2:show="new" ns2:title="&quot;Mandato di procura della signora &lt;persname&gt;Maria Colomba Mazzi&lt;/persname&gt;  vedova  &lt;famname&gt;Roma&lt;/famname&gt; nel signor &lt;persname&gt;Pietro Veratti&lt;/persname&gt; per riscuotere dai signori suoi figli lire seimila delle sue dotali ragioni&quot;," ns2:role="Image-Service" ns2:href="http://purl.stanford.edu/bq359nd1626">
+                        <daodesc>
+                            <p>"Mandato di procura della signora &lt;persname&gt;Maria Colomba Mazzi&lt;/persname&gt; vedova &lt;famname&gt;Roma&lt;/famname&gt; nel signor &lt;persname&gt;Pietro Veratti&lt;/persname&gt; per riscuotere dai signori suoi figli lire seimila delle sue dotali ragioni", 1755 set. 1 </p>
+                        </daodesc>
+                    </dao>                
+				</c02>
                 <c02 id="ref284" level="file">
                     <did>
                         <unittitle>"Decreto di monsignor Vicario Generale per la deputazione dei signori dottor 
