@@ -9844,11 +9844,6 @@
                             </physdesc>
                             <unitdate normal="1781/1788" type="inclusive">1781-1788</unitdate>
                         </did>
-                        <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="&quot;Civilitas excellentssimi domini &lt;persname&gt;Pauli Verati&lt;/persname&gt;&quot;," ns2:role="Image-Thumbnail" ns2:href="http://purl.stanford.edu/fs860sg3577?urlappend=/mode/thumb">
-                            <daodesc>
-                                <p>"Civilitas excellentssimi domini &lt;persname&gt;Pauli Verati&lt;/persname&gt;", 1781-1788 </p>
-                            </daodesc>
-                        </dao>
                         <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="&quot;Civilitas excellentssimi domini &lt;persname&gt;Pauli Verati&lt;/persname&gt;&quot;," ns2:role="Image-Service" ns2:href="http://purl.stanford.edu/fs860sg3577">
                             <daodesc>
                                 <p>"Civilitas excellentssimi domini &lt;persname&gt;Pauli Verati&lt;/persname&gt;", 1781-1788 </p>
@@ -9874,11 +9869,6 @@
                                 <p>"Processus civilitatis illustrissimi et excellentissimi domini doctoris &lt;persname&gt;Pauli Verati&lt;/persname&gt;&lt;corpname&gt; pro Collegio medicine&lt;/corpname&gt;", 1790 </p>
                             </daodesc>
                         </dao>
-                        <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="&quot;Processus civilitatis illustrissimi et excellentissimi domini doctoris &lt;persname&gt;Pauli Verati&lt;/persname&gt;&lt;corpname&gt; pro Collegio medicine&lt;/corpname&gt;&quot;," ns2:role="Image-Thumbnail" ns2:href="http://purl.stanford.edu/zy738vv7866?urlappend=/mode/thumb">
-                            <daodesc>
-                                <p>"Processus civilitatis illustrissimi et excellentissimi domini doctoris &lt;persname&gt;Pauli Verati&lt;/persname&gt;&lt;corpname&gt; pro Collegio medicine&lt;/corpname&gt;", 1790 </p>
-                            </daodesc>
-                        </dao>
                     </c03>
                     <c03 id="ref842" level="file">
                         <did>
@@ -9894,11 +9884,6 @@
                             </physdesc>
                             <unitdate normal="1799/1799">1799</unitdate>
                         </did>
-                        <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="&quot;Processus civilitatis illustrissimi et excellentissimi domini doctoris &lt;persname&gt;Pauli Verati&lt;/persname&gt; pro &lt;persname&gt;Collegio Philosophie&lt;/persname&gt;&quot;," ns2:role="Image-Thumbnail" ns2:href="http://purl.stanford.edu/hr969wb0465?urlappend=/mode/thumb">
-                            <daodesc>
-                                <p>"Processus civilitatis illustrissimi et excellentissimi domini doctoris &lt;persname&gt;Pauli Verati&lt;/persname&gt; pro &lt;persname&gt;Collegio Philosophie&lt;/persname&gt;", 1799 </p>
-                            </daodesc>
-                        </dao>
                         <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="&quot;Processus civilitatis illustrissimi et excellentissimi domini doctoris &lt;persname&gt;Pauli Verati&lt;/persname&gt; pro &lt;persname&gt;Collegio Philosophie&lt;/persname&gt;&quot;," ns2:role="Image-Service" ns2:href="http://purl.stanford.edu/hr969wb0465">
                             <daodesc>
                                 <p>"Processus civilitatis illustrissimi et excellentissimi domini doctoris &lt;persname&gt;Pauli Verati&lt;/persname&gt; pro &lt;persname&gt;Collegio Philosophie&lt;/persname&gt;", 1799 </p>
