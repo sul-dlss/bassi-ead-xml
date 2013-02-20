@@ -3514,34 +3514,6 @@
                     <head>Note</head>
                     <p>The box contains the deeds referring to the Veratti family, in chronological order [see also box 1 description]. They were found alongside those referring to the Bassi and were arranged in chronological order; they currently include those referring to Laura Bassi after 1738, the year in which she married into the Veratti family. To a large extent, the notarial documents consist of wills, inventories, and dowries, as well as notices of professional appointments held by Domenico Veratti's († 1679) family members and especially by the descendants of his son, Giovanni Francesco (1661-1716). Two more documents were added that could not be attributed with certainty, as well as one empty folder.</p>
                 </scopecontent>
-                <c02 id="ref180" level="file">
-                    <did>
-                        <unittitle>Dote di 
-                            <persname>Anna Gaetana Giovanna Veratti</persname>, figlia di 
-                            <persname>Francesco</persname> e moglie di 
-                            <persname>Giuseppe Marchesini</persname>,</unittitle>
-                        <container id="cid61161638" type="Box" label="Mixed materials">3</container>
-                        <container parent="cid61161638" type="Folder">6</container>
-                        <physdesc>
-                            <extent>4.0 leaf/leaves</extent>
-                            <extent>(copia, cc. 4, con allegata ulteriore copia, cc. 2)</extent>
-                        </physdesc>
-                        <unitdate normal="1719/1719">1719 gen. 24</unitdate>
-                    </did>
-                    <bioghist id="ref182">
-                        <head>Note</head>
-                        <p>Una nota avverte "seguì il matrimonio li 25 gennaio del 1719 di giovedì".</p>
-                    </bioghist>
-                    <bioghist id="ref1655">
-                        <head>Note</head>
-                        <p>A note says: "The wedding was on Thursday, January 25th, 1719".</p>
-                    </bioghist>
-                    <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Dote di &lt;persname&gt;Anna Gaetana Giovanna Veratti&lt;/persname&gt;, figlia di &lt;persname&gt;Francesco&lt;/persname&gt; e moglie di &lt;persname&gt;Giuseppe Marchesini&lt;/persname&gt;," ns2:role="Image-Service" ns2:href="http://purl.stanford.edu/qm013zz7685">
-                        <daodesc>
-                            <p>Dote di &lt;persname&gt;Anna Gaetana Giovanna Veratti&lt;/persname&gt;, figlia di &lt;persname&gt;Francesco&lt;/persname&gt; e moglie di &lt;persname&gt;Giuseppe Marchesini&lt;/persname&gt;, 1719 gen. 24 </p>
-                        </daodesc>
-                    </dao>
-                </c02>
                 <c02 id="ref169" level="file">
                     <did>
                         <unittitle>"Scrittura privata di assegnamento di dote del signor 
@@ -3642,6 +3614,34 @@
                     <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="&quot;Inventario dei beni dell'eredità del fu signor dottor &lt;persname&gt;Francesco Veratti&lt;/persname&gt; di &lt;persname&gt;Domenico&lt;/persname&gt;&quot;," ns2:role="Image-Service" ns2:href="http://purl.stanford.edu/cw898nn2177">
                         <daodesc>
                             <p>"Inventario dei beni dell'eredità del fu signor dottor &lt;persname&gt;Francesco Veratti&lt;/persname&gt; di &lt;persname&gt;Domenico&lt;/persname&gt;", 1717 apr. 7 </p>
+                        </daodesc>
+                    </dao>
+                </c02>
+                <c02 id="ref180" level="file">
+                    <did>
+                        <unittitle>Dote di 
+                            <persname>Anna Gaetana Giovanna Veratti</persname>, figlia di 
+                            <persname>Francesco</persname> e moglie di 
+                            <persname>Giuseppe Marchesini</persname>,</unittitle>
+                        <container id="cid61161638" type="Box" label="Mixed materials">3</container>
+                        <container parent="cid61161638" type="Folder">6</container>
+                        <physdesc>
+                            <extent>4.0 leaf/leaves</extent>
+                            <extent>(copia, cc. 4, con allegata ulteriore copia, cc. 2)</extent>
+                        </physdesc>
+                        <unitdate normal="1719/1719">1719 gen. 24</unitdate>
+                    </did>
+                    <bioghist id="ref182">
+                        <head>Note</head>
+                        <p>Una nota avverte "seguì il matrimonio li 25 gennaio del 1719 di giovedì".</p>
+                    </bioghist>
+                    <bioghist id="ref1655">
+                        <head>Note</head>
+                        <p>A note says: "The wedding was on Thursday, January 25th, 1719".</p>
+                    </bioghist>
+                    <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Dote di &lt;persname&gt;Anna Gaetana Giovanna Veratti&lt;/persname&gt;, figlia di &lt;persname&gt;Francesco&lt;/persname&gt; e moglie di &lt;persname&gt;Giuseppe Marchesini&lt;/persname&gt;," ns2:role="Image-Service" ns2:href="http://purl.stanford.edu/qm013zz7685">
+                        <daodesc>
+                            <p>Dote di &lt;persname&gt;Anna Gaetana Giovanna Veratti&lt;/persname&gt;, figlia di &lt;persname&gt;Francesco&lt;/persname&gt; e moglie di &lt;persname&gt;Giuseppe Marchesini&lt;/persname&gt;, 1719 gen. 24 </p>
                         </daodesc>
                     </dao>
                 </c02>
